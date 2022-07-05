@@ -3,7 +3,7 @@ __all__ = [
     "hpc",
     "bgl",
     "hdfs",
-    "zookeeper",
+    #"zookeeper",
     "proxifier",
     "spark",
 ]
