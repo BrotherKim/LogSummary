@@ -5,5 +5,5 @@ __all__ = [
     "hdfs",
     #"zookeeper",
     "proxifier",
-    "spark",
+    #"spark",
 ]
